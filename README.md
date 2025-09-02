@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marco Antonio Carrasco Suarez</h1>
-<h3 align="center">A Android Developer</h3>
+<h3 align="center">A Mobile Developer</h3>
 
 - 🌱 I’m currently learning **Jetpack Compose** and Kotlin Multiplatform 
 
